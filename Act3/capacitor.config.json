@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Act2-MyApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

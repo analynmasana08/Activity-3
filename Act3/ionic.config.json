@@ -1,0 +1,7 @@
+{
+  "name": "Act2-MyApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
